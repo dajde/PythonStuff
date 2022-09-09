@@ -1,5 +1,3 @@
-#Hyperia zadanie
-
 import requests
 import lxml.html
 import json
