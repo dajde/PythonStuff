@@ -2,7 +2,7 @@ import requests
 import lxml.html
 import json
 import re
- 
+
 url = 'https://www.hyperia.sk'
 karieraurl = "/kariera"
 
